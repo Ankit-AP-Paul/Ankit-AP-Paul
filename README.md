@@ -5,7 +5,11 @@
 
 - 🌱 I’m currently learning **Flutter using Dart**
 
+- 💬 Ask me about **DSA, Flutter, and Computer Architecture**
+
 - 📫 How to reach me **ankitpaul894@gmail.com**
+
+- ⚡ Fun fact **I like roasting other people**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
