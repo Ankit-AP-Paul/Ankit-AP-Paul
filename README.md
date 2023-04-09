@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Music Player App](https://github.com/EncryptoCyphers/Rhythm)
 
-- 🌱 I’m currently learning **Flutter, JavaScript, and React.js**
+- 🌱 I’m currently learning **Flutter, JavaScript, and Python**
 
 - 💬 Ask me about **DSA, Flutter, Web Development and Computer Architecture**
 
