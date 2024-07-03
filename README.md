@@ -1,4 +1,4 @@
-![repo-banner](https://github.com/Ankit-AP-Paul/Ankit-AP-Paul/assets/83993904/3883f223-3bf4-45cd-a6e7-12fd84a2099d)
+![banner](https://github.com/Ankit-AP-Paul/Ankit-AP-Paul/assets/83993904/b500c049-a4a8-437b-98df-0a9b9ffe7fb9)
 
 <h1 align="center">Hi 👋, I'm Ankit Paul</h1>
 <h3 align="center">Enthusiastic programmer and Flutter Developer</h3>
