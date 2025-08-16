@@ -1,7 +1,7 @@
 ![banner](https://github.com/Ankit-AP-Paul/Ankit-AP-Paul/assets/83993904/b500c049-a4a8-437b-98df-0a9b9ffe7fb9)
 
 <h1 align="center">Hi 👋, I'm Ankit Paul</h1>
-<h3 align="center">Enthusiastic programmer and Flutter Developer</h3>
+<h3 align="center">Enthusiastic Programmer and Full Stack Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankit-ap-paul" alt="ankit-ap-paul" /></a> </p>
 
