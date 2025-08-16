@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankit-ap-paul" alt="ankit-ap-paul" /></a> </p>
 
-- 🔭 I’m currently working on [E-Commerce App](https://github.com/Ankit-AP-Paul/E-Commerce-App-using-Flutter)
+- 💼 I’m currently working at [Keross R&D](https://www.keross.com/)
 
-- 🌱 I’m currently learning **Flutter, JavaScript, and Python**
+- 🌱 I’m currently learning **Spring, Spring Boot, Docker and Kubernetes**
 
-- 💬 Ask me about **DSA, Flutter, Web Development and Computer Architecture**
+- 💬 Ask me about **DSA, Flutter, Web Development, Java and Python**
 
 - 📫 How to reach me **ankitpaul894@gmail.com**
 
-- ⚡ Fun fact **I like daydreaming**
+- ⚡ Fun fact **I like playing COD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
