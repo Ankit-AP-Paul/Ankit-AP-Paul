@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ankitpaul894@gmail.com**
 
-- ⚡ Fun fact **I like playing COD**
+- ⚡ Fun fact **I like playing COD** and **Travelling around**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
